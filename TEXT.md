@@ -3,13 +3,14 @@
 
 2010–2013 yılları arasında yazılmış, 2017’de derlenmiştir.
 
+
 ---- 
   
 
 [https://esin.net/metrozamanlari/](https://esin.net/metrozamanlari/)
 
 
-METRO ZAMANLARI  
+**METRO ZAMANLARI**
 Ali Riza Esin
 
 
@@ -18,15 +19,17 @@ Birinci Sürüm: Temmuz 2019
 
 CC-BY-NC-ND – Creative Commons Atıf-GayriTicari-Türetilemez 4.0 Uluslararası Lisansı ile lisanslanmıştır. Bazı hakları saklıdır.  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr)
+
+
 ---- 
  
 
 # Giriş
  
 
-
 > *“Kim vardır ki, ömründe bir kere metrodan açık havaya çıkıp da yukarıda dopdolu gün ışığının içine dalınca çarpılmamış olsun. Oysa güneş birkaç dakika önce, o aşağıya inerken aynı parlaklıkla ışımaktaydı. Ne çabuk unutmuştur yolcu üst dünyadaki havayı. O çabuklukla da üst dünya onu unutacaktır.”*[^1]
-> 
+
+
 ## Arena
 
 Taksim’de, metro girişine bakan yaya geçidinde, ışığın yeşile dönmesini bekliyorum. Kalabalık. Gençten bir adam, kafasıyla karşıyı işaret ederek “Arena’ya giden metro şu mu?” diye soruyor. *Arena*’yı[^2] arıyormuş… 
@@ -59,6 +62,10 @@ Kalabalık, kendi yolunu kendi bulan, bulamadığında yenisini yapan bir akarsu
 
 Kapalı yer korkusunun yeraltında olanı farklı mı? Yukarıdaki toprak ve kaya ağırlığına hiçbir zaman maruz kalmasa bile bunu hissetmek bir biçimde, kapalı yer korkusu olanların kâbusu olabilir mi? Olmaz galiba… Yerin sadece kapalı olması dahi yeterli olabilir onlar için. Kapalı her yerde korkuyor olabilirler.
 Peki, yükseklik korkusunun tam tersi bir korku olamaz mı? Alçaklık korkusu? Kelime oyunu değil, harfiyen… Daha derine indikçe yükselen bir korku var mı?
+
+
+----
+
 
 # İstasyonlar
  
@@ -125,12 +132,16 @@ Geçiş turnikelerinin hemen üstünde, tavandan sarkıtılmış ekranlar var. T
 İstasyonlardaki bu ekranlardan neden hoşlanmadığımı anladım sonunda. Gereksiz telaşımı gerekli kılıyorlar çünkü. Sanki bana acele etmemi söylüyorlar, dürtüklüyorlar. Bak, gördün mü! Yine geç kaldın işte… Kaçtı tren! Belki ben telaşımın o beyhude halini seviyorum? Acelem varmış gibi yapmasını…
 Mesele trenlerin ne zaman nerede olduğunu bilmekse, aşağıda neler döndüğünü anlamak ekranlara bakmadan da mümkün: Yürüyen merdivenler boşsa, bineceğin tren henüz gelmemiştir. Doluysa, treni kaçırmışsındır. En aşağıda tek tük birileri varsa, treni yakalamak için fazla yukarıdasın, yetişemezsin.
 
+
+----
+
+
 # Yeraltına Notlar
  
 
-
 > *“B hattına ulaşmak için metro istasyonunun merdivenlerinden iniyorum şu sırada. Burası çok kalabalık. Sen nerdesin? İnanmıyorum! Hava nasıl? Biniyorum şimdi — sonra ararım seni…”*[^6]
-> 
+
+
 ## Bayrak kızılı
 
 Taksim’deki metro çıkışlarının Atatürk Kültür Merkezi yönüne bakanından yukarıya doğru çıkarken, çıkış boşluğunun çizdiği çerçevedeki gökyüzünün yarısını kaplayan devasa bayrak yerinde değil birkaç gündür. İki haftadır aralıksız devam eden poyrazdan sonra *bakıma alınmış* olmalı. Bu işlerle de ilgilenen birileri var demek ki. Böylesi işlerle Belediye mi ilgileniyor yoksa başka bir yetkili merci mi… Bayrak bu, başıboş bırakmaya gelmez!
@@ -207,12 +218,16 @@ Sevimli bir gülümseme vardı yüzünde, ben ona bakmadan hemen önce. Gözleri
 İneceğim yere yaklaşırken yavaşlamaya başlıyor tren. Yerimden kalkıp en yakın kapıya yöneliyorum, sendelememeye çabalayarak. Buna gülüyorum. Frenlemeye devam eden bir trende yerinden kalkarken yapılan bu kendini dengeleme hareketinin ilk iki adımını zeybek oyunlarına benzetirim hep. Bu bana komik geliyor.
 Şimdi kapıların tam dibindeyim. Çocuk beni izliyor mu hâlâ? İzliyor. Tren kapılarının camları ayna gibi olur ya arkası karanlıkken, ben de ona bakabiliyorum gülümseyerek ama bu defa çaktırmadan. İstasyon ışıkları, buralarda görmeye alışık olmadığım o güleç insan yüzünü camdan silene kadar.
 
+
+----
+
+
 # Azaltılmış Gerçeklik
  
 
-
 > *“Hayallerin, hayal olarak, yaşanmaları, gerçek değil de ne? — Herhangi bir yaşantı, yaşanırken, hayal olarak yaşanıyor da olsa, gerçek değil midir?”*[^7]
-> 
+
+
 ## Açıl duvar açıl
 
 Füniküler vagonları, bir caddede karşıdan karşıya geçmek gibi bir deneyim de yaşatabiliyor insana. Bazen bir yandaki kapıdan giriyor, ayakta duruyor ve diğer yandan, hemen karşısındakinden çıkarak karşıya geçiyoruz. Duvarların yoldan çekilmesini bekliyoruz o esnada.
@@ -318,12 +333,15 @@ Mecidiyeköy… Bir arkadaşla karşılaştık yukarıda. Aşağıya indik. Plat
 Trenin uğultusu duyuluyor. “Bak, devrim geliyor” diyorum. Kabul. Ama bugün *latte*ler senden. Paran yoksa yarım yarım yaparız, ekstra boş bardakla. Daha boş bardak diye bir şey var!
 Susuyoruz. Tren kapıları önümüzden geçiyor birer birer. Biri tam önümüzde duracak gibi. Duruyor. İneni olmayan bir kapı olduğunu anlıyoruz. Biniyoruz.
 
+
+----
+
+
 # Metro Müzikleri
  
-
-
 > *“Çünkü biz, az ya da çok, yaşamak alışkanlığını yitirmiş, aksaya aksaya yürüyen insanlarız. Hem de gerçek ‘canlı yaşam’dan tiksinecek, onun lafını bile işitmek istemeyecek kadar yaşama yabancılaşmışız.”*[^12]
-> 
+
+
 ## Tempo!
 
 Metronun temposunu en iyi yansıtanlar bugünlerde bir klarnetçi, bir gitarist, bir de *darbukatör*den oluşan bir grup. Hızlı adımlarımız tempolarına tam oturuyor ya da biz onlara *ayak uyduruyoruz* farkında olmadan.
@@ -366,12 +384,16 @@ Yalnız, adam hep gelenlerin öncüleri koridorun ucunda belirdikleri anda başl
 Gidenler giderlerken de çalmıyor öte yandan… Bir değil, iki değil, hep böyle denk geliyorum. Gelenler gidenlerden daha çok mu para bırakıyor acaba? Yoksa metro müziği dediğimiz şey bir çeşit karşılama müziği mi?
 Acaba gelenler mi daha kendi derdinde ve farkında değil müziğin, gidenler mi?
 
+
+----
+
+
 # Merdiven Yürüyenler
  
 
-
 > *“Zamandanız hepimiz. Bizler onun ayakları ve ağızlarıyız. Zamanın ayakları ayaklarımızda yürüyor.”*[^13]
-> 
+
+
 ## Dik yokuş
 
 Yürüyen merdivenlerin eğimini dikkate almazsanız, yol gidiş-geliş, dört şeritli bir köprüye benziyor. Yaya köprüsü… Hızlı *araçlar* soldan, ağır vasıtalar sağdan ilerliyorlar sabit bir hızla.
@@ -389,15 +411,25 @@ Yürümeyen merdivenlerle yürüyen merdivenlerin basamak yükseklikleri arasın
 ## Kahve, kahve değil sadece
 
 İçtiği kahveyi elinde taşıma kültürü İstanbul’da yeni sayılır, göreceli olarak. Metro gibi tıpkı. Bir metro kültürü oluştuğundan söz edilebilir mi peki? Edilebilir. O kadar da yeni sayılmaz.
+
 “Merhaba, isminiz?”
+
 Ben sadece kahve almak istiyorum. Filtre kahve.
+
 “Sıcak, soğuk?”
+
 Sıcak. Sade.
+
 “Süt ister misiniz?”
+
 Sade.
+
 Bir yürüyen merdiven kültürü olduğundan bile bahsedebiliriz, yürüyen merdivenine göre değişmekle birlikte. AVM’lerdekileri kullanırken sağda ya da solda durma, yürüyerek çıkma, arkadan gelebileceklere yol verme gibi bir kaygı olmayabiliyor örneğin. Mağaza içi bir yürüyen merdivende o mağazanın tamamını satın almış gibi bir tavır takınabiliriz bilerek ya da bilmeyerek ve kimse bunu garipsemez.
+
 “Pardon, bakar mısınız?”
+
 Teşekkür ederim.
+
 Elinde kahvesiyle yürüyen biri yürüyen merdivenlerden çıkarken sadece kahvesini değil, her iki kültürün taşıyıcılığını birden yapıyor olabilir eski kuşaktan insanlara göre. Metro yürüyen merdivenlerinden elindeki kahveyle inenler sıklaşmaya başlarsa, bir süre sonra buna metro kültürü diyen de çıkabilir belki.
 
 
@@ -428,6 +460,10 @@ Büyüklüğü bilinmeyen bir evrenin içinde, sen hangi yöne yürürsen yürü
 \* \* \* 
 
 Dalgınlık değildi bu. O anda kendi zamanına geçmiştin. Yolun zamanında değildin. Ama hangi zamanına? Yolun da kendine ait bir zamanı olmalı bu durumda, sabit olsa da… Olamaz mı? Yolu da bir yürüyen merdiven olarak düşünebiliriz. Yalnız bu yukarı-aşağı değil, ileri-geri hareket halinde. Yine de hareket etmiyor, hayır. Altından geçiyor, sen yürüdükçe akmış oluyor. Yolla biz, aksi yönlere doğru ilerliyoruz.
+
+
+----
+
 
 # Çıkış
  
@@ -483,6 +519,10 @@ Yanlış yöne doğru yürüyormuşum gibi de bir his belirdi şimdi içimde. Ö
 Gidiş yönü daha tenha. Diğerlerine göre geliş yolu. Ayaküstü kurduğum mizansene uygun, hep birlikte, bir yerden bir yere kaçıyor gibiyiz, önümdekiler, arkamdakiler…
 Bu kadar insan hangi cennete sığacak, hangi cehenneme?.. Gülümsüyorum. Buraya sığmışız ya işte!
 
+
+----
+
+
 # Ekler
  
 
@@ -534,6 +574,10 @@ Bu kadar insan hangi cennete sığacak, hangi cehenneme?.. Gülümsüyorum. Bura
 - **Yükleniyor…**
 - **Binenler de insan.**
 - **benioku.txt**
+
+
+----
+
 
 ### Dipnotlar
 
