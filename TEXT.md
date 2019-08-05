@@ -114,6 +114,9 @@ CC-BY-NC-ND – Creative Commons Atıf-GayriTicari-Türetilemez 4.0 Uluslararas�
 > *“Kim vardır ki, ömründe bir kere metrodan açık havaya çıkıp da yukarıda dopdolu gün ışığının içine dalınca çarpılmamış olsun. Oysa güneş birkaç dakika önce, o aşağıya inerken aynı parlaklıkla ışımaktaydı. Ne çabuk unutmuştur yolcu üst dünyadaki havayı. O çabuklukla da üst dünya onu unutacaktır.”*[^1]
 
 
+----
+
+
 ## Arena
 
 Taksim’de, metro girişine bakan yaya geçidinde, ışığın yeşile dönmesini bekliyorum. Kalabalık. Gençten bir adam, kafasıyla karşıyı işaret ederek “Arena’ya giden metro şu mu?” diye soruyor. *Arena*’yı[^2] arıyormuş…
@@ -123,6 +126,9 @@ Taksim’de, metro girişine bakan yaya geçidinde, ışığın yeşile dönmesi
 Işıklar şimdi yayalardan yana. Karşıya geçiyorum. Az önce yol tarif ettiğim kişiyle aynı girişe yöneliyorum. Niyetim Arena’ya gitmek değil mamafih… Osmanbey’de ineceğim muhtemelen.
 
 
+----
+
+
 ## Yeraltı geçitlerine giriş
 
 Yürüyen merdiven teknolojisiyle tanıştığım ilk yer, eski ismiyle Aksaray Yeraltı Geçidi. Çocukken… Şimdi orası sadece sıradan bir alt geçit işlevi görüyor. Yaya geçidi… Sıradanlığı, belki yabancılar dışında kimsenin dikkatini çekmeyecek denli düşük kalibreli mağazalara yer sahipliği etmesinden.
@@ -130,6 +136,9 @@ Yürüyen merdiven teknolojisiyle tanıştığım ilk yer, eski ismiyle Aksaray 
 Neredeyse her *alt geçit* böyle oldu artık İstanbul’da. Yer altına tıkıştırılmış pazar yerleri… Mümkündür. Küçük ve işporta ölçekli işletmelerin tezgâh kuracakları yerlere, gelip geçenlerin ise lüzumsuz Çin mallarıyla taciz edilmeye ihtiyaçları olabilir.
 
 Aksaray Yeraltı Geçidi — çok eskilerin bedestenleri sayılmazsa ve zamanında sanki oradan artan çimentoyla yapılmış UFİ’nin[^3] yürüyen merdivenleri, — benim için Türkiye’nin ilk *Alışveriş ve Yaşam Merkezi*’ydi diye hatırlıyorum. Güzel şeyler tabii ki bunlar… Hayati şeyler. Alışveriş olsun, yaşam olsun.
+
+
+----
 
 
 ## İki yüz elli bin lira
@@ -146,6 +155,9 @@ Aslında ona değil de, talep ettiği paraya rastlamış olabilirim yeniden. Dah
 Yeni parayla iki yüz elli lira demek istiyor olmalı diye fikir yürütmeye devam ediyorum. Nakit. Başka düşüncelere yakalanmadan önce koridor bitiyor. Yerin dibine geçiyoruz diğer yolcularla birlikte, yürüyen merdivenler yardımıyla.
 
 
+----
+
+
 ## Buluşma
 
 Metro istasyonlarının yeryüzüyle bağlantı uçları, giriş çıkış ağızları, başka yerde buluşmaktan daha pratik bulanların öyle de kullandıkları yerlerden. Birilerini bekler gibi duranlar eksik olmuyor hiç metro bacalarının başından.
@@ -153,6 +165,9 @@ Metro istasyonlarının yeryüzüyle bağlantı uçları, giriş çıkış ağı
 Taksimdekinin farklı yönlere bakan iki ayrı çıkışından daha kalabalık olanı tercih ediliyor. Daha garantili olur gözüyle bakılıyordur belki. Birbirini tenhada fark etmek daha zor belli ki.
 
 Kalabalık, kendi yolunu kendi bulan, bulamadığında yenisini yapan bir akarsu gibi çağlamaya devam ediyor. İnsanlar da damlacık ya, hep birden akmaya devam ediyorlar İstiklâl Caddesi’ne doğru… Cihangir’e akanlar da az değil, Sıraselviler yatağından.
+
+
+----
 
 
 ## Rakım
@@ -166,6 +181,9 @@ Peki, yükseklik korkusunun tam tersi bir korku olamaz mı? Alçaklık korkusu? 
 
 
 # İstasyonlar
+
+
+----
  
 
 ## Sekizinci kapı
@@ -178,6 +196,9 @@ Sekizinci kapı benim için daha az yol kesişmesi, daha az adım alıştırma, 
 Tren kapılarıyla metro geçitlerini birbirine kenetli, yekpare bir sistemin parçaları gibi görmek… Dışarıya çıkacağın deliğe doğru hizalarsan kendini, gökyüzünü biraz daha erken görebiliyorsun.
 
 
+----
+
+
 ## Aynı kapı ya
 
 Bir trene hep aynı kapısından binmenin avantajları çok. İnsanın nereye kadar gideceğini ve nerede duracağını önceden biliyor olması büyük kolaylık mesela.
@@ -185,6 +206,9 @@ Bir trene hep aynı kapısından binmenin avantajları çok. İnsanın nereye ka
 Durakların, hele hele metro durakları gibi dar ve uzun olanlarının, bekleyen insan tedirginliği gibi bir rahatsızlığa yol açtığını düşünüyorum bazen, başka bir vesveseden ibaret değilse benimkisi. Bu da bilmediğim bir rahatsızlık olabilir ya da bilinen bir hastalığın tanı belirtilerinden biri.
 
 Oysa durup beklemek en kolay şey. Duracaksın durduğun yerde, zaman akıp geçecek kendiliğinden. Bu kez tam ortada mı dursam acaba diye düşünmeye başlıyorum. Platformun öbür ucuna doğru yürürsem zaman biraz daha hızlı akar mı akmaz mı… Akıyor.
+
+
+----
 
 
 ## Duvara karşı
@@ -199,6 +223,9 @@ Kadın modelin bakışlarına anlam vermeye çalışıyorum birkaç gündür. Ac
 Kadının yanında duran erkek modelin hali tavrı ise çok net. Dekupe bir genç. Oraya sonradan yapıştırılmış gibi duruyor çünkü gayet net. “Sen yere bak” gibi bir şey demiş olabilirler kendisine ve o da bakmış büyük gayretle.
 
 
+----
+
+
 ## Tourniquet
 
 Kalabalık saatlerde, özellikle rağbet gören turnikeler var metro girişlerinde. Birkaç adım kazandırıp yolu kısaltanlar, kestirme gibi olanlar…
@@ -208,6 +235,9 @@ Başka zamanlarda birer sanat galerisi havasına bürünebiliyor yeryüzünün b
 Yoğun saatlerde ise *akbilini*[^5] ya da geçiş kartını ancak tam önüne geldiğinde hatırlayanlar, o esnada arkalarındakileri engelleyenler eksik olmuyor işte bu en transit turnikelerin başından. Erkeklerin genellikle ceplerinde tuttukları anahtar, bozuk para, çakmak gibi ufak tefek şeyleri kadınlar çantalarında taşımayı tercih ediyorlar ve el yordamıyla arayıp bulmayı… Bu her yerde böyle galiba.
 
 İşte böyle durumlarda — onların da acelesi olduğundandır muhakkak — başı kalabalıklaşmaya en uygun turnikeleri seçiyorlar çantalarını karıştırmak için. Böylece arkalarından gelenler diğerlerini kullanıyor ve turnike başına düşen insan sayısı homojen bir görünüme bürünüyor. Başı boş turnikeler bunun için yapılmış sanırım.
+
+
+----
 
 
 ## Makas değiştirme
@@ -221,6 +251,9 @@ Uzlaşmalı uzaklaşma temin eden davranış ritüelleri… Sosyokültürel alı
 Ayrılmaya karar verir vermez kendi hızımızı karşımızdakinin hızına göre ayarlıyoruz veya onun kendisini bize göre ayarlamasını beklemeye başlıyoruz. Olmadı, konuyu buna yönlendiriyoruz ister istemez, ayrılacağız ya işte, hemen şimdi değilse bile belki biraz sonra. Ağırdan alıp makas değiştirmeyi bekliyoruz belki o esnada ve sonra herkes kendi yoluna.
 
 
+----
+
+
 ## İndi-bindi işaretleri
 
 Neden sonra farkına vardım ki, trenlere binenlerle inenlerin geçecekleri yerleri belirten işaretler sökülmüş bazı istasyonlardan. “Lütfen inenlere öncelik tanıyınız”lar… Çoğu zaman olmasa da olur indi-bindi işaretleri…
@@ -232,6 +265,9 @@ Demek ki diyorum, “demek ki” dediğin anda, hakikatte var olan bir şeyi asl
 Tren yaklaşıyor. Bineceğim noktaya doğru hareketleniyorum, artık yerinde olmayan işaretlere boş verdiğimi zannederek.
 
 
+----
+
+
 ## Zorunda mıyım?
 
 İstanbul metrosunda trene binenler ikiye ayrılır: Kapının sağında bekleyenler, solunda bekleyenler… Tam ortadan binmek isteyenler de çıkabiliyor zaman zaman ve kaideler istisnaları bozmuyor genelde.
@@ -239,6 +275,9 @@ Tren yaklaşıyor. Bineceğim noktaya doğru hareketleniyorum, artık yerinde ol
 Trenden inenlerin durumu ise daha kritik. Bir kere trene daha önceki istasyonların birinden binmiş olmaları büyük terbiyesizlik! Hadi bindiler diyelim, niye onlar beklemiyor binenleri?
 
 Kimse başkası gibi davranmak zorunda değil, ancak başkalarıyla ortak kullanılan yerlerde olsun herkes diğerini en azından boşlukta kapladığı yer kadar var saymak zorunda sanki… Çarpışıyoruz yoksa.
+
+
+----
 
 
 ## Ayazağa
@@ -250,6 +289,9 @@ Bazı istasyonlar diğerlerine kıyasla çok daha geniş ve ferah yerler. Kapal�
 Genişçe birer iskeleye benziyor platformlar burada, diğer alanlar hesaba katılmasa bile. Trenin *yanaşması* esnasında sadece raylara paralel işlemiyor yaya trafiği, dikine de işleyebiliyor. Kalabalığın arkasında bir boşluk yakalamak mümkün iner inmez.
 
 Trenden inerken sağa sola sapmadan burnunun dikine yürüyebilmek güzel bir serbestlik. Zikzaklar çizmeden ilerlemek imkânsıza yakın öbür türlü, insanların üstüne üstüne yürümek imkânlarınız dahilinde değilse. Kontra hareketlerle işleyen bir oyunda zor zanaat ilerlemek.
+
+
+----
 
 
 ## Bilgi dolu bilgi ekranları
@@ -267,9 +309,15 @@ Mesele trenlerin ne zaman nerede olduğunu bilmekse, aşağıda neler döndüğ�
 
 
 # Yeraltına Notlar
+
+
+----
  
 
 > *“B hattına ulaşmak için metro istasyonunun merdivenlerinden iniyorum şu sırada. Burası çok kalabalık. Sen nerdesin? İnanmıyorum! Hava nasıl? Biniyorum şimdi — sonra ararım seni…”*[^6]
+
+
+----
 
 
 ## Bayrak kızılı
@@ -279,11 +327,17 @@ Taksim’deki metro çıkışlarının Atatürk Kültür Merkezi yönüne bakan�
 Muhtemelen geçici bu durumun biz fanilerin ufkuna çiziktiriverdiği manzara o ki, AKM çıkışı merdivenlerine yansıyan ışıkla soluklaşan gökyüzü resmi bir süredir daha mavi.
 
 
+----
+
+
 ## Yetişkin zamanları
 
 İlginç… Hiç çocuk yok trende. İlginç değil, çocukların piyasaya sürüldüğü bir saatte değiliz.
 
 Halbuki çok güzel gelmişti bana şu zaman. Günün bu zamanları… Yanılmışım. O kadar da güzel değilmiş. Çocukları eksikmiş.
+
+
+----
 
 
 ## Çorap kaçması
@@ -295,6 +349,9 @@ Orta yaşlı bir kadın. Kendinden memnun ama tam da emin değilmiş gibi sanki.
 Bir tavırdan geri durarak küçültür ya insan bazen kendini… Ama küçük düşmek korkusuyla değil, hedef küçültmek kaygısıyla… Saklanmak için. Karşısındakinde yardım gerektiren bir sorun sezdiğinde “bir neden de ben olmak istemem” diye düşünmeye cüret edecek kadar kendini büyük gören bir ikiyüzlülüktür bu. Öyleyse fena! Utanmış olsam iyi olur.
 
 
+----
+
+
 ## Konsültasyon
 
 Yirmi birinci yüzyılımıza istikrarla taşıdığı fötr şapkasıyla herkesten farklı, biraz yaşlıca bir beyefendi… Efendi bir bey. Zorunlu kulak misafirliğim ve vücut dilinden anlıyorum ki bu sıfatlar eksiksiz yakışıyor kendisine. Yün paltosuyla gömleği hariç — kravatı dahil — baştan aşağı lacivert kıyafetli. Doktormuş.
@@ -304,6 +361,9 @@ Kapıda karşılaştığı kendisinden biraz daha genç, belli ki başka bir dok
 Kısa sohbetleri gayet soluk tonda. Sohbet bile denemez hatta… Beklenmedik bir tesadüf ve zoraki bir birarada olma hali… İkisi de memnun görünmüyor bu hallerinden. Keşke karşılaşmasalarmış. Yine de umursamaz gibiler. Olmuş bir kere… Hayat kısa, metro yolculuğu daha kısa. Tavırlarında ve cimrice kullandıkları kelime öbeklerinde bir üste çıkma ve diğerini orada bırakma kaygısı hakim. Sohbet hangi heceden kesilecek, kim kimin aklını hangi pozisyona hapsedip gidecek, belli değil.
 
 Sen neredesin şimdi? Nişantaşı. Ben neredeyim, İstiklâl… Falanca lokantanın üstü. Çok geçmiyor, tren kapılarını açıyor ve bir gevşeme… İyi günler, iyi günler.
+
+
+----
 
 
 ## Hapşı!
@@ -331,6 +391,9 @@ Tesadüf ettiğimiz kız ise Türkçedeki “hapşu” yerine fiil çekimini ter
 Zincirlikuyu istasyonundan binen kahramanımız, Şişli-Mecidiyeköy istasyonunda inerek ayrılıyor aramızdan. Çok yaşasın!
 
 
+----
+
+
 ## Bayrak yarışı
 
 Bugün metroda her zaman rastladıklarımdan farklı bir hareketliliğe tanık oldum. Bir kadın, yürüyen merdivenleri hızlıca çıkarak tırmanması biter bitmez koşmaya başladı. Hızlı yürüyenler hayli çok metroda ama koşmak?.. Koşuşturmak değil, koşmak… Başkaları gibi sanırım, dikkat kesilip izlemeye başlıyorum ben de.
@@ -348,6 +411,9 @@ Adam yetişiyor nihayet kadına ve elindeki şeyi ona uzatıyor bir yandan koşm
 Her şey *normale* dönüyor. Saklanacağımız yerlere dağılıyoruz.
 
 
+----
+
+
 ## Şişhane yönüne gidecek…
 
 Şu sıralarda Şişhane yönüne doğru o kadar çok gitmedim ki, artık gitmek istiyorum. Hayatımın doğal akışına uymaması nedeniyle gitmiyorum aslında, oraya gitmekle yapacağım bir şey yok çünkü. Aslında var da bilmiyor muyum yoksa? Ben gitmeyince gidilmiş olmuyor olabilir, hiçbir şey olmasa bile… Orada benim olmam lazım özellikle! Şişhane bu, ihmal etmeye gelmez.
@@ -361,11 +427,17 @@ Her şey *normale* dönüyor. Saklanacağımız yerlere dağılıyoruz.
 “Karşı peron” dedi! Aramızda sadece yürüyen ve yürümeyen merdivenlerin yer aldığı çıkış koridoru var. Hemen karşısı Şişhane’ye gitmeme ihtimali, merdivenleri saymazsan.
 
 
+----
+
+
 ## Kısa hüzmeli bakışlar
 
 Trendeyim. Sağ çaprazımda yaşı başını almış görünümlü bir abi oturuyor. Kafası iyi gibi… Kendi âlemine geçmiş tamamen. Etrafıyla alıp veremediği hiçbir şey yok. Tam bir güzel insan örneği, abartısız.
 
 Gözyaşlarından birazını göz altı torbalarında biriktirmiş gibi sanki, eğilmiş yere doğru bakıyor sürekli. Bakışları o kadar kısa ki, yere bile değmiyor.
+
+
+----
 
 
 ## Gazeteci çıkışı
@@ -379,6 +451,9 @@ Fakat eksik bir şey var sanki tüm bu havada? Tabii ya, gazeteci sesi! *Bugün*
 Önünden gelip geçenlerin ve daha ötedekilerin yüzlerine baka baka, bir elindeki gazeteyi üstten tutarak vitrin yapıyor, diğer eliyle satacağı öbür gazeteleri tutuyor. Ancak, insanların yüzlerine bakmakla yetiniyor sadece ve manşetleri bağırmıyor, her zaman yaptığı gibi.  Gözünü diktiği kişileri başıyla da izleyerek dikkatle süzüyor.
 
 Bunu bugünlük özellikle yaptığı yönünde bir izlenim çıkarmaya çalışıyorum durumdan. Kızmış mı, küsmüş mü, sesi mi kısılmış yoksa, pek belli değil. Anlamadan geçiyorum. Henüz mesaisine başlamamış olamaz mı? Olabilir. Belki de metrodan bu saatte çıkanların *Bugün*le arası yoktur, bu da olabilir. Durum buysa kime bağırsın adam, niye bağırsın?
+
+
+----
 
 
 ## Sevimli çocuk
@@ -396,14 +471,23 @@ Sevimli bir gülümseme vardı yüzünde, ben ona bakmadan hemen önce. Gözleri
 
 
 # Azaltılmış Gerçeklik
+
+
+----
  
 
 > *“Hayallerin, hayal olarak, yaşanmaları, gerçek değil de ne? — Herhangi bir yaşantı, yaşanırken, hayal olarak yaşanıyor da olsa, gerçek değil midir?”*[^7]
 
 
+----
+
+
 ## Açıl duvar açıl
 
 Füniküler vagonları, bir caddede karşıdan karşıya geçmek gibi bir deneyim de yaşatabiliyor insana. Bazen bir yandaki kapıdan giriyor, ayakta duruyor ve diğer yandan, hemen karşısındakinden çıkarak karşıya geçiyoruz. Duvarların yoldan çekilmesini bekliyoruz o esnada.
+
+
+----
 
 
 ## Beklerken
@@ -415,11 +499,17 @@ Beklemekten sıkılmaz insan, tabi olmaktan sıkılır. Tahammül göstermekten�
 Bu durumda trenin geliş zamanına tabiyim ama sıkılmıyorum. Geleceği zamanı kestirebiliyorum çünkü. İnsan bir şeyin olacağı zamanı biliyorsa ona demirliymiş gibi hissetmeyebiliyor. Başına geleceği sahipleniyor önceden.
 
 
+----
+
+
 ## Trance
 
 Başımı bir şeye her gömdüğümde sanki başka bir dünyanın kapıları açılıyor ardına kadar. Giriyorum ve onun zamanına geçiyorum. *Dalmak* kelimesi harfi harfine işliyor, dikkat toplaşımı isteyen herhangi bir işi görmeye çalışırken. Okurken örneğin… Yemek yerken bile bazen ve ancak o şekilde içinde bulunduğum eylemenin tadına varabiliyorum, bir tadı varsa.
 
 Bu zaten hep böyle değil miydi? *Hakiki hayat* benim için de *can sıkıcı bir rüya*[^9] mı yoksa?
+
+
+----
 
 
 ## Zaman bu zamandır
@@ -429,11 +519,17 @@ Oyalandığımı biliyorum. Kendi kendimi oyaladığımı… Yapacak daha iyi bi
 Yapamadığın şey, her neyse işte o, hiç olmadığı halde geçmiş zamandadır çoktan. Geçmiş zamandır. “Past tense.” Geçmişi susturmadan şimdiki zamana hükmedemezsin. O seni yoğurmaya devam ederken sen kendini şimdide sanırsın en fazla. Şimdisini yanında taşır herkes ve ancak hemen yanındakiyle paylaşabilir.
 
 
+----
+
+
 ## Kapalı kapı
 
 Fiziksel özgürlüğün serbest hareketle ilgili olduğu düşüncesindeki hareket sadece iki yönlü olmalı. Sağı solu belli olmaz insanın ama bir önü ve arkası var. Geldiği yön arkasında, gittiği yön önünde. Metroda böyle en azından. Bu dev borularda, tünellerde, tüp geçitlerde, başka yöne hareket etme olanağı yok gibi. Önüne veya arkana doğru gidebiliyorsun ancak, ileri veya geri, sağın solun duvarlarla çevrelenmişse.
 
 Dışarısı böyle değil. Bir sokağı adımlarken evlere doğru yönelmezsin ama kimbilir, özgürlük belki de o kapılardan birindedir. Hemen çıkabileceğin bir kapı takip ediyor olamaz mı seni? Kapı kapalıyken de kapı değil mi?
+
+
+----
 
 
 ## Kusurdöngü
@@ -445,6 +541,9 @@ Saatler gibi takvimler de takılmalı duvarlara. Çünkü her şey, her hareket 
 Saati bilmesen de olur. Her zaman, şimdi değilse bir sonrasıdır.[^10] Öncede olamazsın hiçbir zaman. Saat, kusurlu hareketlerden birini beş geçiyordur ya da hiç ummadığın bir şeye çeyrek vardır.
 
 
+----
+
+
 ## Kalabalık sörfü
 
 Özellikle yoğun istasyonlardaki kalabalık hareketlerini tarif etmek için “dalga dalga” ifadesi güzel işliyor zihnimde. Bunu beğeniyorum. Trenlerin indi-bindi zamanlarına göre bir katar dolusu kalabalık çıkışa doğru yöneliyor. Gruplar arasında yer yer geniş tenhalıklar, boşluklar oluşuyor bazen.
@@ -454,11 +553,17 @@ Akışın ritmini bir sörf tahtası üzerindeymiş gibi kullanmayı hayal eders
 Dalgaların büyüklüğü ve frekansı günün belirli saatlerine göre birbirinden farklı. Bu hesapla bugün Levent civarında hava mutedil dalgalı. Oynamak istemiyorum. Suya karışıyorum.
 
 
+----
+
+
 ## Denge oyunu
 
 Metro trenlerinin kapı önlerinde bir yerde duvarlara paralel ve hiçbir yere tutunmadan duruyorsanız, kendinizi trende değil de bir *kaykay*ın üzerindeymiş gibi hayal edebilirsiniz, çocuklar gibi.
 
 Çocuklar… Uzandıkları herhangi bir zemin birden bire bir bahçeye veya bir ormana dönüşebilir ya da oyuncak arabalarını sürdükleri bir yola. Gerçekten… Bir yanak yere dayanmışsa hele ve o arabaya da binilmişse eğer… Ne güzeldir o seyir hâli!
+
+
+----
 
 
 ## Matrix muhabbeti
@@ -485,6 +590,9 @@ Beyaz sonsuza uzayan raflardaki silahlardan silah beğenelim sahnesi olmalı anl
 Hikâye ne? Durağıma geldik. Zaman geçmiş oldu en azından… Çıkıyorum.
 
 
+----
+
+
 ## Helecan
 
 Metrodaki harala gürelenin nedeni bir yerlere yetişme telaşı mı, yoksa başka bir şey mi? Trenlerin hızına kaptırmış gidiyor olabilir miyiz kendimizi? Üç-beş dakika geçmeden yenisinin geleceğini bildiğin bir ulaşım aracına kapağı atma gayesi, bu koşuşturmanın tamamını anlamak için yetersiz gibi.
@@ -492,6 +600,9 @@ Metrodaki harala gürelenin nedeni bir yerlere yetişme telaşı mı, yoksa baş
 Metronun seyrek saatlerinde on dakika sonraki katarın zaman tablosuna dahil olmanın sakıncası ne olabilir ki? On dakika sonrası kim için ne kadar geç? Kıtlık görmemiş insanların bazen kıtlıktan yeni çıkmış gibi davranmalarının bir nedeni var mı? Trene haldır huldur binip haldır huldur inilmeyen bir dünya mümkün mü?
 
 Metro içindeki yaya düzeni ya da kargaşası başka, kendini trene dar atma çabası ise daha başka bir gariplik gibi geliyor bana. Gidilecek en uzak yere gitmek en fazla yarım saat sürecek ama yine de ayakta kalmakla oturmak arasındaki konfor farkı mıdır mesele?
+
+
+----
 
 
 ## Hızlı çekim
@@ -503,11 +614,17 @@ Buradaki dünya dışarıdan daha belirgin, belki ondandır. Hız, kolayca hizal
 Metroda ise her şey sana çok yakın, tünellerde hele, seyir halindeyken delice akan duvarlar burnunun dibinde sayılır. Bu yüzden daha çarpıcı, daha sersemletici belki. Bir telaş varsa eğer içten içe, bir tedirginlik hissi… Olmayabilir de tabii.
 
 
+----
+
+
 ## Depolama
 
 Araç trafiğini yönetenler için trafik tıkanıklığı diye bir şey yoktur, oluşan durum gerçek bir kaos değil de yönetilen bir şeyse. Trafik tıkanıklığı dediğimiz şey, o yere doldurulmuş, daha öteye boşaltılması gereken bir akıştır. Tam da bu yüzden onlar buna “depolama” der. İki trafik lambası arasına depolarlar trafiği. Biraz ileriye boşaltılacaksınız nasılsa ve geçip gitmeye devam edeceksiniz.
 
 Alabileceğinden daha fazla doldurulan bir şişeden taşmak şişelenmekle ilgili daha çok, sıvıyla ilgisi yok denecek kadar az. Bu durumda dökülmek sonuçtur, sebep dökmektir. Dolduran ve doldurulan hacimle ilgilidir taşmak, sıvı dökülen pozisyonundaysa edilgendir, bir edeni vardır mutlaka.
+
+
+----
 
 
 ## Bilimkurgu etkisi
@@ -524,6 +641,9 @@ Metrodaki hayat her zaman o kadar da karanlık değil ama hepsi tesadüfen birar
 Yeryüzündeki bir deliğe girip bir başkasından çıkmak… Çokluevrenin yeraltı sahnesindeki zaman kırılmaları… Ağır çekimden hızlıya dönüyorum bazen. “Yukarıdaki savaş” diyorum, devam ediyordur muhakkak.
 
 
+----
+
+
 ## Medeniyet dediğim
 
 Zaman en geniş mutabakat. Mevcut halini Julius Caesar zamanına borçluyuz. Metropol hayatı en başta bu mutabakatın alt kategorilerine boyun eğmekle işleyen bir düzenek.[^11]
@@ -531,6 +651,9 @@ Zaman en geniş mutabakat. Mevcut halini Julius Caesar zamanına borçluyuz. Met
 Hayatta fabrika ayarı olarak benimsediğimiz her şey, bünyesini hayata bizden önce ödünç vermiş kimselerce sabitlenmiş kavrayış kalıplarına göre işlemekte, çünkü insan temel kabullere muhtaç ve bunların önceden tanımlamış olması, bir birlikte yaşam pratiği yaratmak ve bunu sürdürmek için yeterli gibi görünüyor. Yeni durumlar yeni tanımlamalar gereksiniyor gibi görünseler de hep o eski maddelerin yeni türevleri biçiminde katılıyorlar hayatımıza. Kaporta iki–üç yılda bir değişse de motor aynı, yakıt form değiştirse de enerji kaynağı bir özünde.
 
 İnsanoğlu birtakım *sabitleri* sahiplenirse, arta kalan *değişkenleri* yönetmek daha az sorunlu. Öyle biliniyor. Peki, değişkenleri asla değişmeyen bir duruma sabitlerseniz ne olur? Değişmez olurlar. Sizden başka neredeyse her şeyi değişmez kıldığınız anda normalde değişmeyen şeyler de dahil olmak üzere her şeyi değiştirebilecek bir pozisyon elde edersiniz. Ediliyor.
+
+
+----
 
 
 ## Trenlerdeki istasyon anonsları
@@ -548,6 +671,9 @@ Gayrettepe’ye varmak hoş tabii. Gayet doğal ve çok net. Gelirken duyduğumu
 Bu *Levent* sesi, duydum duyalı garip geliyor bana. Sanki biraz hüzünlü, biraz düşünceli bir ses… Levent’e gelmese miydik ne?..
 
 Levent’ten sonra birden bire canlanıyor anonslar. Buraya kadar hayli belirgin bir standart hakimdi. Levent’i geride bıraktığımızda ise heyecanlanmamız, sevinmemiz, içimizde bir kıpırtının uyanması, bir coşku duymamız gerekiyor galiba — ya da işte, hattın ses kaydına geç kalmıştı sonraki istasyonlar.
+
+
+----
 
 
 ## Issızlık
@@ -569,8 +695,14 @@ Susuyoruz. Tren kapıları önümüzden geçiyor birer birer. Biri tam önümüz
 
 
 # Metro Müzikleri
+
+
+----
  
 > *“Çünkü biz, az ya da çok, yaşamak alışkanlığını yitirmiş, aksaya aksaya yürüyen insanlarız. Hem de gerçek ‘canlı yaşam’dan tiksinecek, onun lafını bile işitmek istemeyecek kadar yaşama yabancılaşmışız.”*[^12]
+
+
+----
 
 
 ## Tempo!
@@ -580,11 +712,17 @@ Metronun temposunu en iyi yansıtanlar bugünlerde bir klarnetçi, bir gitarist,
 Havalarına uyanları kendilerine doğru çekiyorlar uzaktan. Yola devam ederken yürüyen bant onlara çalışıyor sanki ve oradan da salıveriyorlar herkesi, gittikleri yerlere doğru. Birkaç ölçü müzikle doldurduktan sonra bataryalarımızı, her nereye doğru koşturuyorsak artık…
 
 
+----
+
+
 ## Müzisyenlere yardım
 
 Metroda çalan müzisyenlerin önlerinde de turnikeler olsa… Akbillerinin küsüratlarını olsun bağışlayabilse insanlar… Güzel olur muydu… Olmazdı. Var mı cebinde bozuk paran? Yok. Sağlamını boş ver.
 
 Geçip gidici bir rahatlama hissiyle uzaklaşıyorsun işte önlerinden. Gerisini yazmaya gerek yok.
+
+
+----
 
 
 ## Gelecek Program
@@ -603,6 +741,9 @@ Ve bir türküye geçiyorlar arkamızdan, Karadeniz dolaylarından…
 “Etnik müzik” demiyorlar mı bir de!
 
 
+----
+
+
 ## Tasdikli müzik
 
 Metro istasyonlarında müzik yapanlar, *idare* tarafından bir sınava tabi tutuluyorlarmış bir söylentiye göre. Bu doğruysa, onay verenlerin dertleri müzik değil galiba ya da aralarında hiç müzisyen yok. Amatör dinleyici bir heyet… Öyle anlaşılıyor. Olsun. Asıl dertleri *idare etmek* olduktan sonra gerisi önemli sayılmamalı.
@@ -614,6 +755,9 @@ Metroda çalan müzisyenler arasında oldukça başarılı olanlar var ama bir s
 Önlerinden geçenlere para bırakma düzeneği kurmayanları bu fasıldan hariç tutmak lazım belki. Bozuk paralar sokakta müzik yapmanın gereklerinden biri değil mi? Sahneyi tamamlayan bir aksesuar… Ama bunu kullanmayanların bir kısmı, sanki başkalarına dinlete dinlete öğreniyorlar müzik yapmayı. Zorla güzellik olmuyor nitekim.
 
 
+----
+
+
 ## Ürün yerleştirme
 
 Metroyu haftanın her günü kullanıyorsanız, bir süre sonra fark edebileceğiniz şeylerden biri, metroda canlı müzik yapanların kendilerini haftanın belirli gün ve saatlerine *yerleştirmiş* oldukları. Ya da başkalarının onları oraya yerleştirmişlikleri…
@@ -623,6 +767,9 @@ Bazıları gerçekten *müzisyen* olabiliyor müzik yapanların. Bazıları ise 
 Bir süre sonra fark edebileceğiniz şeylerden bir başkası ise, aynı yerlerden aynı zamanlarda gelip geçiyor olsanız bile, bir kere gördüğünüz bir yüzü bir kere daha görme olasılığının düşüklüğü. Sanki bunun tersi olmalıydı ama metroyu kullanan nüfusun çokluğu buna engel.
 
 Yeni gördüğün birilerini tanımlamak için tanıdıklara benzetme ihtiyacıyla başgösteren algı oyunları, aslında tamamen yabancılarla dolu olduğunu bildiğin her yerde tanıdık bir yüz arayıp durmanın kendisi kadar acayip bir durum. Mutlaka kendi kahramanlarımızla yaşatmaya devam ettiğimiz hayal mahsullerimizden…
+
+
+----
 
 
 ## Saksafon
@@ -642,9 +789,15 @@ Acaba gelenler mi daha kendi derdinde ve farkında değil müziğin, gidenler mi
 
 
 # Merdiven Yürüyenler
+
+
+----
  
 
 > *“Zamandanız hepimiz. Bizler onun ayakları ve ağızlarıyız. Zamanın ayakları ayaklarımızda yürüyor.”*[^13]
+
+
+----
 
 
 ## Dik yokuş
@@ -658,6 +811,9 @@ Londra ya da Tokyo’da durum nasıl acaba? Yürüyen merdivenler üzerindeki yo
 Bizdeki tavanlar başka tavanlara kıyasla tepemize daha yakın diye böyle hissettiriyorlardır belki. Bundandır muhakkak.
 
 
+----
+
+
 ## Yürüyen merdivenler mekaniğine giriş
 
 İlk dört basamak düzlük, uzun ve tek bir adım atarsan birkaç aşamayı birden geçebiliyorsun. Yürüyen merdivende atılmış her adım iki adım birden sağlar. Bir adım attığında bir adım da havada süzülürken atmış olursun. Bir alana bir bedava!
@@ -667,6 +823,9 @@ Yürüyen merdivenlerin basamakları düz merdivenlerden daha yüksek. Belli ki 
 Yürüyen merdiven basamaklarının ancak yürümüyorlarken kullanıldıklarında fark edilebilen bir yükseklik farkları olduğu doğru. Üretimlerine daha az basamak harcanması ve daha hızlı insan sevkiyatı anlamına geliyor olmalı bu. Basamak başına birkaç santim daha hızlı çıkmış oluyorsun. “Toplu taşıma hizmetleri” kapsamında… Yürüyen merdivenler de insanları bir yerden bir yere taşıma amaçlı seyahat araçlarından biri değil mi bir yerde?
 
 Yürümeyen merdivenlerle yürüyen merdivenlerin basamak yükseklikleri arasındaki fark, aynı zamanda bir yüksekliği tırmanırken insanın eriştiği hızın, basamakları tırmanırken kendini yukarıya itmesine yardımcı bir fonksiyon olduğunu da getiriyor akla. Yürüyen merdivenler o ivmeyi, seni yukarıya itme enerjisini de kendisi üretiyor, yürüyerek tırmananlar için. Momentum, basamakların yükseklik farkını da ortadan kaldırıyor olmalı telafi ederek. Bunu yapabilmek için her zaman çalışıyor olmaları lazım elbette — olmayınca olmuyor.
+
+
+----
 
 
 ## Kahve, kahve değil sadece
@@ -704,6 +863,9 @@ Teşekkür ederim.
 Elinde kahvesiyle yürüyen biri yürüyen merdivenlerden çıkarken sadece kahvesini değil, her iki kültürün taşıyıcılığını birden yapıyor olabilir eski kuşaktan insanlara göre. Metro yürüyen merdivenlerinden elindeki kahveyle inenler sıklaşmaya başlarsa, bir süre sonra buna metro kültürü diyen de çıkabilir belki.
 
 
+----
+
+
 ## Hızlandırılmış yaya yoluna binmek
 
 Fiziksel engeli bulunmayan insanların yürüyen merdivenler ve yürüyen bantları kullanım tarzları çeşitlilik gösterse de, genel eğilim formlarından değil işlevlerinden faydalanmayı tercih etmek yönünde. Formatları bakımından hareket etmeyen zeminlerden farksız görünseler de, formun dolduruşuna gelip tahrik olmaya gerek yok. Zemin hareket ettiğine göre üzerinde durarak kullanmak, “binmek,” daha iyi kısacası. 
@@ -715,11 +877,17 @@ Ata, eşeğe, katıra, hayvanların çektiği arabaya, motorlu taşıtların her
 Yürüyen bantların çalışmadığı durumda yaşananlara anlam veremiyorum sadece, yadırgamaya devam ediyorum. Dalgınlıkla üzerine kadar gelip birkaç adım da attıktan sonra bandın yürümediğini fark eden üç-beş kişiden en az birinin geri dönüp dışarıdan yürümek istemesini… İniyorlar. Öyle daha rahat hissediyorlar muhtemelen.
 
 
+----
+
+
 ## Yolculuk
 
 Bir yerden başka bir yere gitme eylemi içinde bulunmak… Yolculuk…
 
 Peki, belirli bir yerden başka belirli bir yere mi yoksa herhangi bir yerden başka herhangi bir yere mi olduğunu bilmediğin bir gitme eylemi içinde bulunmak… Yolculuk mu bu da?
+
+
+----
 
 
 ## Yürüyen merdivenler mekaniğinden uzaklaşma
@@ -751,6 +919,9 @@ Dalgınlık değildi bu. O anda kendi zamanına geçmiştin. Yolun zamanında de
 
 
 # Çıkış
+
+
+----
  
 
 ## Yukarıya akıtan huniler
@@ -766,6 +937,9 @@ Birincisinde insan davranış ve tutumlarının her türlüsü ve çaprazlamalar
 Neyse ki yürümeyen merdivenler hayatta hâlâ. Böylesi bir darboğazı kolayca aşmanın, esenliğe kestirmeden çıkmanın tek yolu geleneksel merdivenler. Merdiven… Yürüyerek çıkılanlar.
 
 
+----
+
+
 ## Metro aktarmalı gelir dağılımı
 
 *The New Yorker* dergisi, şehirdeki gelir dengesizliğini sergilemenin bir başka yöntemini daha bulmuş ve “Eşitsizlik ve New York Metrosu”[^14] başlığıyla yayımlamış.
@@ -777,6 +951,9 @@ Bundan yaklaşık yedi yıl önce yayımlanmış bir başka makalede ise, kıtan
 İstanbul’daki eşitsizliklerin dünyanın başka şehirlerinden aşağı kalır bir yanı var mı, bilemiyorum. Ancak aynı mantıkla İstanbul’un durumu incelemeye kalkışılsaydı, aynı çarpıcı sonuçlara varmak mümkün olmayabilirdi. Amerikan metropollerinde olduğu kadar yaygın ve homojen bir metro ağı yok çünkü İstanbul’da. Mevcut metro hatları şehrin kalbini göbeğine bağlayabiliyor ancak. 
 
 Şehrin periferisi, uydu şehirler, banliyöler, kenarda kıyıda kalmış semtler, İstanbul’un kalbinin attığı yerlere başka ulaşım yöntemleriyle de bağlanıyor artık. En çok kullanılanı *Metrobüs*… Şehrin insan yükünü uzun mesafelere taşıyor, karşı yakasına bile aktarabiliyor hatta, *Boğaz Köprüsü* üzerinden.
+
+
+----
 
 
 ## Dünyanın ikinci metrosu?
@@ -798,6 +975,9 @@ Bir şehir içi taşıma sistemi olarak, sistem olarak: Metro. Sistemi oluştura
 Kafa yormanın gereksiz olduğu sayısız şeylerden bir başkası… Füniküler ismini sesli okuyamıyorum hâlâ. Ayakkabılarıma bakıyorum.
 
 
+----
+
+
 ## Tünel mi Metro mu…
 
 Metro denen “yeraltında işleyen toplu taşıma sistemi bütünü,” diğer dillerde *subway*, *underground*, *tube*, *u-bahn*, *metropolitana* gibi isimlerle geçiyor. *Metro* ismi, sadece yeraltında işleyen sistemlere değil, banliyö trenlerini de içine alan, daha kapsamlı bir sisteme karşılık olarak da kullanılabiliyor — raylı ulaşım sistemlerinin şehirlisi… Fakat biz daha çok yeraltında çalışan sistemi tarifle, hatta o sistemin treni anlamında kullanıyoruz. Böyle anlamları da var zaten.
@@ -807,6 +987,9 @@ Metro, *Metropolitan* kısaltmasıysa, tarihinde buna ilk kez Büyükşehir Böl
 “Silindirik yapılı demiryolu tünelleri”ne *Tube* denilmesinin başlangıcı 1847.[^22] Metroya *Tube* demelerle ise, “Londra Merkez Demiryolu”nun 1900 yılında açılmasından daha önce, *Twopenny Tube* ismiyle “vaftiz edilmesi”[^23] sayesinde tanışmış dünya.
 
 Bugün *the Underground* veya *the Tube* isimleriyle bilinen Londra Metrosu’nun “fikri,” 1830’da ortaya çıkmış.[^24] “Metropolitan Railway” isimli projeye inşaat izninin *alınması* 1854’e kadar sürmüş.[^25] İnşaat izni “almak” pek anlaşılır bir süreç olmayabilir, çünkü biz inşaat izni “vermeyi” biliyoruz daha çok. Aradan geçen 10 yılı aşkın zaman ciddi tartışmalara sahne olmuş, konuşup tartışmışlar aralarında, herkesin kafasına göre şehrin göbeğini kazması deşmesi fikri icat edilmemiş daha.
+
+
+----
 
 
 ## İlk Metrolar
@@ -822,6 +1005,9 @@ Alman dili ve edebiyatı mensubu insanlar, bir metroyla *bizden* daha geç tanı
 Acaba bizim *Hafif Metro*, yoğun şehir hattından, *Hızlı Tramvay* da ünlü *Hızlı Tren*den almış olabilirler mi isimlerini? Bunların daha ağırları da ancak aşağıda, yeraltında işliyordur işte. Ağır metal… Ayrıca yavaş tramvayları da var İstanbul’un. En yavaşı, İstiklâl Caddesi’ndeki “Nostaljik Tramvay”. *Barış Manço, Moda–İstanbul* hattı var bir de…
 
 Dünyanın ikinci metrosu aslında Atina’da mıymış? Bak sen! Uluslararası metro edebiyatında dünyanın ikinci metrosu olarak 1869’da işletmeye açılmış Atina–Pire Elektrikli Demiryolları ismi geçiyor. Peki, bunun nedeni bizim “Banliyö Hattı” dediğimiz şeye dünyanın geri kalanının metro demesi olabilir mi? Bilemiyorum. Belki de *biz* biraz ilerisine düşüyoruz dünyanın.
+
+
+----
 
 
 ## Metrodan çıkış
@@ -841,11 +1027,17 @@ Bu kadar insan hangi cennete sığacak, hangi cehenneme?.. Gülümsüyorum. Bura
 
 
 # Ekler
+
+
+----
  
 
 ## Alıntı
 
 “Впрочем, здесь еще не кончаются «записки» этого парадоксалиста.”[^31]
+
+
+----
 
 
 ## Metro yer etiketleri için alternatif uyarı ifadeleri
