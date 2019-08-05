@@ -25,83 +25,83 @@ CC-BY-NC-ND – Creative Commons Atıf-GayriTicari-Türetilemez 4.0 Uluslararas�
  
 ### İÇİNDEKİLER
 
-- **Giriş**
-	- Arena
-	- Yeraltı geçitlerine giriş
-	- İki yüz elli bin lira
-	- Buluşma
-	- Rakım
+- [**Giriş**](#giriş)
+	- [Arena](#arena)
+	- [Yeraltı geçitlerine giriş](#yeraltı-geçitlerine-giriş)
+	- [İki yüz elli bin lira](#iki-yüz-elli-bin-lira)
+	- [Buluşma](#buluşma)
+	- [Rakım](#rakım)
 
-- **İstasyonlar**
-	- Sekizinci kapı
-	- Aynı kapı ya
-	- Duvara karşı
-	- Tourniquet
-	- Makas değiştirme
-	- İndi-bindi işaretleri
-	- Zorunda mıyım?
-	- Ayazağa
-	- Bilgi dolu bilgi ekranları
+- [**İstasyonlar**](#istasyonlar)
+	- [Sekizinci kapı](#sekizinci-kapı)
+	- [Aynı kapı ya](#aynı-kapı-ya)
+	- [Duvara karşı](#duvara-karşı)
+	- [Tourniquet](#tourniquet)
+	- [Makas değiştirme](#makas-değiştirme)
+	- [İndi-bindi işaretleri](#indi-bindi-işaretleri)
+	- [Zorunda mıyım?](#zorunda-mıyım)
+	- [Ayazağa](#ayazağa)
+	- [Bilgi dolu bilgi ekranları](#bilgi-dolu-bilgi-ekranları)
 
-- **Yeraltına Notlar**
-	- Bayrak kızılı
-	-  Yetişkin zamanları
-	- Çorap kaçması
-	- Konsültasyon
-	- Hapşı!
-	- Bayrak yarışı
-	- Şişhane yönüne gidecek…
-	- Kısa hüzmeli bakışlar
-	- Gazeteci çıkışı
-	- Sevimli çocuk
+- [**Yeraltına Notlar**](#yeraltına-notlar)
+	- [Bayrak kızılı](#bayrak-kızılı)
+	- [Yetişkin zamanları](#yetişkin-zamanları)
+	- [Çorap kaçması](#çorap-kaçması)
+	- [Konsültasyon](#konsültasyon)
+	- [Hapşı!](#hapşı)
+	- [Bayrak yarışı](#bayrak-yarışı)
+	- [Şişhane yönüne gidecek…](#şişhane-yönüne-gidecek)
+	- [Kısa hüzmeli bakışlar](#kısa-hüzmeli-bakışlar)
+	- [Gazeteci çıkışı](#gazeteci-çıkışı)
+	- [Sevimli çocuk](#sevimli-çocuk)
 
-- **Azaltılmış Gerçeklik**
-	- Açıl duvar açıl
-	- Beklerken
-	- Trance
-	- Zaman bu zamandır
-	- Kapalı kapı
-	- Kusurdöngü
-	- Kalabalık sörfü
-	- Denge oyunu
-	- Matrix muhabbeti
-	- Helecan
-	- Hızlı çekim
-	- Depolama
-	- Bilimkurgu etkisi
-	- Medeniyet dediğim
-	- Trenlerdeki istasyon anonsları
-	- Issızlık
+- [**Azaltılmış Gerçeklik**](#azaltılmış-gerçeklik)
+	- [Açıl duvar açıl](#açıl-duvar-açıl)
+	- [Beklerken](#beklerken)
+	- [Trance](#trance)
+	- [Zaman bu zamandır](#zaman-bu-zamandır)
+	- [Kapalı kapı](#kapalı-kapı)
+	- [Kusurdöngü](#kusurdöngü)
+	- [Kalabalık sörfü](#kalabalık-sörfü)
+	- [Denge oyunu](#denge-oyunu)
+	- [Matrix muhabbeti](#matrix-muhabbeti)
+	- [Helecan](#helecan)
+	- [Hızlı çekim](#hızlı-çekim)
+	- [Depolama](#depolama)
+	- [Bilimkurgu etkisi](#bilimkurgu-etkisi)
+	- [Medeniyet dediğim](#medeniyet-dediğim)
+	- [Trenlerdeki istasyon anonsları](#trenlerdeki-istasyon-anonsları)
+	- [Issızlık](#issızlık)
 
-- **Metro Müzikleri**
-	- Tempo!
-	- Müzisyenlere yardım
-	- Gelecek Program
-	- Tasdikli müzik
-	- Ürün yerleştirme
-	- Saksafon
+- [**Metro Müzikleri**](#metro-müzikleri)
+	- [Tempo!](#tempo)
+	- [Müzisyenlere yardım](#müzisyenlere-yardım)
+	- [Gelecek Program](#gelecek-program)
+	- [Tasdikli müzik](#tasdikli-müzik)
+	- [Ürün yerleştirme](#ürün-yerleştirme)
+	- [Saksafon](#saksafon)
 
-- **Merdiven Yürüyenler**
-	- Dik yokuş
-	- Yürüyen merdivenler mekaniğine giriş
-	- Kahve, kahve değil sadece
-	- Hızlandırılmış yaya yoluna binmek
-	- Yolculuk
-	- Yürüyen merdivenler mekaniğinden uzaklaşma
+- [**Merdiven Yürüyenler**](#merdiven-yürüyenler)
+	- [Dik yokuş](#dik-yokuş)
+	- [Yürüyen merdivenler mekaniğine giriş](#yürüyen-merdivenler-mekaniğine-giriş)
+	- [Kahve, kahve değil sadece](#kahve-kahve-değil-sadece)
+	- [Hızlandırılmış yaya yoluna binmek](#hızlandırılmış-yaya-yoluna-binmek)
+	- [Yolculuk](#yolculuk)
+	- [Yürüyen merdivenler mekaniğinden uzaklaşma](#yürüyen-merdivenler-mekaniğinden-uzaklaşma)
 
-- **Çıkış**
-	- Yukarıya akıtan huniler
-	- Metro aktarmalı gelir dağılımı
-	- Dünyanın ikinci metrosu?
-	- Tünel mi Metro mu…
-	- İlk Metrolar
-	- Metrodan çıkış
+- [**Çıkış**](#çıkış)
+	- [Yukarıya akıtan huniler](#yukarıya-akıtan-huniler)
+	- [Metro aktarmalı gelir dağılımı](#metro-aktarmalı-gelir-dağılımı)
+	- [Dünyanın ikinci metrosu?](#dünyanın-ikinci-metrosu)
+	- [Tünel mi Metro mu…](#tünel-mi-metro-mu)
+	- [İlk Metrolar](#ilk-metrolar)
+	- [Metrodan çıkış](#metrodan-çıkış)
 
-- **Ekler**
-	- Alıntı
-	- Metro yer etiketleri için alternatif uyarı ifadeleri
+- [**Ekler**](#ekler)
+	- [Alıntı](#alıntı)
+	- [Metro yer etiketleri için alternatif uyarı ifadeleri](#metro-yer-etiketleri-için-alternatif-uyarı-ifadeleri)
 	
-- **Kaynakça**
+- [**Kaynakça**](#kaynakça)
 
 
 
@@ -951,7 +951,7 @@ Bu kadar insan hangi cennete sığacak, hangi cehenneme?.. Gülümsüyorum. Bura
 
 [^26]:	A.G.E., John R. Day ve John Reed
 
-[^27]:	*Subways* (Annual Subway Ridership, Facts and Figures, *MTA.info*, 2013)
+[^27]:	*Subways*, Annual Subway Ridership, Facts and Figures, *MTA.info*, 2013
 
 [^28]:	[List of metro systems, Wikipedia](http://en.wikipedia.org/wiki/List_of_metro_systems)
 
