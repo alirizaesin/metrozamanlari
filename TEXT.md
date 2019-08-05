@@ -310,8 +310,6 @@ Mesele trenlerin ne zaman nerede olduğunu bilmekse, aşağıda neler döndüğ�
 
 # Yeraltına Notlar
 
-
-----
  
 
 > *“B hattına ulaşmak için metro istasyonunun merdivenlerinden iniyorum şu sırada. Burası çok kalabalık. Sen nerdesin? İnanmıyorum! Hava nasıl? Biniyorum şimdi — sonra ararım seni…”*[^6]
@@ -472,8 +470,6 @@ Sevimli bir gülümseme vardı yüzünde, ben ona bakmadan hemen önce. Gözleri
 
 # Azaltılmış Gerçeklik
 
-
-----
  
 
 > *“Hayallerin, hayal olarak, yaşanmaları, gerçek değil de ne? — Herhangi bir yaşantı, yaşanırken, hayal olarak yaşanıyor da olsa, gerçek değil midir?”*[^7]
@@ -696,8 +692,6 @@ Susuyoruz. Tren kapıları önümüzden geçiyor birer birer. Biri tam önümüz
 
 # Metro Müzikleri
 
-
-----
  
 > *“Çünkü biz, az ya da çok, yaşamak alışkanlığını yitirmiş, aksaya aksaya yürüyen insanlarız. Hem de gerçek ‘canlı yaşam’dan tiksinecek, onun lafını bile işitmek istemeyecek kadar yaşama yabancılaşmışız.”*[^12]
 
@@ -790,8 +784,6 @@ Acaba gelenler mi daha kendi derdinde ve farkında değil müziğin, gidenler mi
 
 # Merdiven Yürüyenler
 
-
-----
  
 
 > *“Zamandanız hepimiz. Bizler onun ayakları ve ağızlarıyız. Zamanın ayakları ayaklarımızda yürüyor.”*[^13]
