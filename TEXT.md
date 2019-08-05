@@ -10,7 +10,7 @@
 [https://esin.net/metrozamanlari/](https://esin.net/metrozamanlari/)
 
 
-**METRO ZAMANLARI**
+**METRO ZAMANLARI**  
 Ali Riza Esin
 
 
@@ -140,7 +140,7 @@ Bu “n’olursunuz”u çok duydum başka dilencilerden. İki yüz elli bin lir
 Aslında ona değil de, talep ettiği paraya rastlamış olabilirim yeniden. Daha tanıdık geliyor bana belli ki. Gelip geçenlerden sabit miktarda para istemesi…
 
 
-       “Hey dostum! Dilenmek hoşuma mı gidiyor sanıyorsun?!”[^4]
+   “Hey dostum! Dilenmek hoşuma mı gidiyor sanıyorsun?!”[^4]
 
 
 Yeni parayla iki yüz elli lira demek istiyor olmalı diye fikir yürütmeye devam ediyorum. Nakit. Başka düşüncelere yakalanmadan önce koridor bitiyor. Yerin dibine geçiyoruz diğer yolcularla birlikte, yürüyen merdivenler yardımıyla.
@@ -312,7 +312,7 @@ Sen neredesin şimdi? Nişantaşı. Ben neredeyim, İstiklâl… Falanca lokanta
 
 Gayet kendiliğinden ve diyaframdan soprano bir sesle “Hapşııı” diyordu genç kız hapşırırken. Harfi harfine! Sonunda yumuşak G yok! Yanlış mı duydum acaba diye dikkat kesiliyorum. Sözlü hapşırmak diye bir şey olabilir mi? Hapşırmak da dile dahil mi?
 
-       – Hapşııı!
+   – Hapşııı!
 
 Gayet nizami hapşıran bir insan… İnsanların hapşırırken çıkardıkları sesler muhtelif ama hapşııı *diyerek* hapşırmak?
 
@@ -344,6 +344,7 @@ Metrodaki yeknesaklığı kıran bir hareketlenme… Galiba eğlenceli de! İçi
 Garip olan, adamın önündeki kadına hiç seslenmeden, ona koşarak erişmekteki ısrarı. Bağırmakla bağırmamak arasında bocalamasının nedenini çıkarmaya çalışıyorum. Nasıl olsa yetişirim diye düşünmüş olabilir mi? Ortalığı bağırış çığırışa boğmanın, dikkatleri üzerine çekmenin hiç gereği yok?
 
 Adam yetişiyor nihayet kadına ve elindeki şeyi ona uzatıyor bir yandan koşmaya devam ederken. Kadın durmuyor çünkü bu arada! Arkasına bile bakmadan, biri nasıl olsa ona yetiştirmeliymiş gibi, yarım yan dönerek alıyor şeyini. Koşma amacını kaçırmaktan daha önemli bir şey değilmiş belli ki, yoksa durup bir teşekkür ederdi değil mi? Teşekkür etmesi gerekmezdi belki de, çünkü bu çok acil bir durumdu gerçekten de… Anlamadım.
+
 Her şey *normale* dönüyor. Saklanacağımız yerlere dağılıyoruz.
 
 
@@ -354,7 +355,7 @@ Her şey *normale* dönüyor. Saklanacağımız yerlere dağılıyoruz.
 “Şişhane yönüne doğru gidecek yolcularımızın…” derken bir anlığına duraksıyor makinist. O arada kontrol panelindeki bir düğmeye basıyor belki. Bir yandan ceketini giyiyor olabilir ya da, iki işi aynı anda yapıp bir an önce çıkmak için kabinden.
 
 
-       “…karşı perona geçerek aktarma yapmaları gerekmektedir.”
+   “…karşı perona geçerek aktarma yapmaları gerekmektedir.”
 
 
 “Karşı peron” dedi! Aramızda sadece yürüyen ve yürümeyen merdivenlerin yer aldığı çıkış koridoru var. Hemen karşısı Şişhane’ye gitmeme ihtimali, merdivenleri saymazsan.
@@ -465,21 +466,20 @@ Metro trenlerinin kapı önlerinde bir yerde duvarlara paralel ve hiçbir yere t
 İki genç yan yana. Az sakallı olan diğerine yarım dönmüş konuşuyor hararetli hararetli. Dinleyen çok sakallı. Tam karşılarındayım ve çıkardıkları sesten dikkatimi kaçıramadığım için elimdeki şeyi okuma ısrarımdan vazgeçip kapatmak zorunda kalıyorum. Ya oradan kalkıp başka yere oturacağım ya da gürültülerine bela olmak zorundayım! Duymamak mümkün değilse bari hakkını versem? Bu üçüncü seçenek. Dinlemeye başlıyorum.
 
 
-       “Mekânlar arasında hareket etmiyorsak ya? Ya mekânlar hareket ediyorsa biz dururken? Yerler ayaklarımızın altından kayıp geçiyorsa?” “Hareket derken? Ha, tamam…” “*Matrix…* Hah işte, nasıldı bi’ sahne vardı hani…”
+   “Mekânlar arasında hareket etmiyorsak ya? Ya mekânlar hareket ediyorsa biz dururken? Yerler ayaklarımızın altından kayıp geçiyorsa?” “Hareket derken? Ha, tamam…” “*Matrix…* Hah işte, nasıldı bi’ sahne vardı hani…”
 	
 
 Hangi Matrix? Hangi sahne?
 
 
-       “Silah seçtikleri sahne… Ajanların mekâna dalıp dağıtıyorlar sonra… Hatırladın mı?”
+   “Silah seçtikleri sahne… Ajanların mekâna dalıp dağıtıyorlar sonra… Hatırladın mı?”
 
 Hatırladım. Çok Sakallı hatırlamadı galiba. Dinliyor gibi ama pek oralıymış gibi de görünmüyor, bir eliyle sakalını sıvazlarken gözleri kapanıyor. Hah, bu benim için yeni! Acaba kafalar iyi mi?
-
 
 Beyaz sonsuza uzayan raflardaki silahlardan silah beğenelim sahnesi olmalı anlattığı sahne. Eee? Arkadaşı da hatırladı sahneyi ama o şimdi anlatılan şeyi kimbilir nereye düşürüp bıraktığı asıl mevzuya yapıştırmakla meşgul biraz sanki, biraz düşünceli… Susuyor.
 
 
-       “Oyuncular duruyor, mekân ayakları altında hareketli. Bahsettiğim şey sen adım attıkça yerin ayaklarının altından kayıp geçmesi. Hangi yöne yürüyorsan, onun tersine akıyor. Koşu bandı yok mu, hah işte o! Başkaları da var ama onlar yere çakılı! Hikâye bu!”
+   “Oyuncular duruyor, mekân ayakları altında hareketli. Bahsettiğim şey sen adım attıkça yerin ayaklarının altından kayıp geçmesi. Hangi yöne yürüyorsan, onun tersine akıyor. Koşu bandı yok mu, hah işte o! Başkaları da var ama onlar yere çakılı! Hikâye bu!”
 
 
 Hikâye ne? Durağıma geldik. Zaman geçmiş oldu en azından… Çıkıyorum.
@@ -542,6 +542,7 @@ Tiyatro ya da diksiyon eğitimi almış *sesleri* konuşurlarken dinlemek inanı
 Şişli-Mecidiyeköy istasyonunda bu semt isimleri birbirine daha bitişik söyleniyor ilk anonsta. İstasyona vardığımızda duyduğumuz anons ise ilkinden biraz farklı. Sanki İngilizce anonsunu okumaya hazırlanıyordu *speaker*… Yine de Türkçe ama “Şişli ‘*is*’ Mecidiyeköy” der gibi okuyor; arada “is” sesi eksik sadece. Şişli, “virgül” Mecidiyeköy demiş olamıyor bu durumda. İki kelimelik bir cümlenin ilk kelimesi sonunda ses tonu tizleşip ikinci kelimenin son harflerinde pesleşince bu sonuca varıyoruz. Şişli mi Mecidiyeköy mü? İkisi birden tabii ama soru hâlâ canlı!
 
 Gayrettepe’ye varmak hoş tabii. Gayet doğal ve çok net. Gelirken duyduğumuz o aşırı terbiyeli, utangaç havadan sıyrılıp rahatlamışız belli ki. Bir ferahlığa ermişiz.
+
 İngilizcelerine kulak kabartıyorum, “*next station*”ın “şın”ları biraz yükseğe çıkıyor haliyle. Kulaklarımızı *upright position*’a getirmemiz isteniyor gibi… Meraktayız. “*Next station*”ın hemen ardından “*is*” tadı veren biraz da “ığn” artıklı bir es, konuyu Levent’e bağlıyor.
 
 Bu *Levent* sesi, duydum duyalı garip geliyor bana. Sanki biraz hüzünlü, biraz düşünceli bir ses… Levent’e gelmese miydik ne?..
@@ -552,10 +553,11 @@ Levent’ten sonra birden bire canlanıyor anonslar. Buraya kadar hayli belirgin
 ## Issızlık
 
 Mecidiyeköy… Bir arkadaşla karşılaştık yukarıda. Aşağıya indik. Platformda kendimize yer beğenirken laflıyoruz. “Hani metronun işe gidiş-dönüş saatleri var ya?” “Var, evet?..” “O zamanlar normale göre daha kalabalık hani…” “Normale göre derken?..” “Bırak şimdi…”
+
 “İşte o kalabalıkta çok daha ıssız geliyor metro bana. Kalabalığın olmadığı saatler daha kalabalık gibi bir şey…” “Ama başka bir gün bakıyorsun, o kadar da tenha değil.”
 
 
-       Şimdi bir reklam: “Tren geliyooo!”
+   Şimdi bir reklam: “Tren geliyooo!”
 
 
 Trenin uğultusu duyuluyor. “Bak, devrim geliyor” diyorum. Kabul. Ama bugün *latte*ler senden. Paran yoksa yarım yarım yaparız, ekstra boş bardakla. Daha boş bardak diye bir şey var!
@@ -672,19 +674,19 @@ Yürümeyen merdivenlerle yürüyen merdivenlerin basamak yükseklikleri arasın
 İçtiği kahveyi elinde taşıma kültürü İstanbul’da yeni sayılır, göreceli olarak. Metro gibi tıpkı. Bir metro kültürü oluştuğundan söz edilebilir mi peki? Edilebilir. O kadar da yeni sayılmaz.
 
 
-       “Merhaba, isminiz?”
+   “Merhaba, isminiz?”
 
 
 Ben sadece kahve almak istiyorum. Filtre kahve.
 
 
-       “Sıcak, soğuk?”
+   “Sıcak, soğuk?”
 
 
 Sıcak. Sade.
 
 
-       “Süt ister misiniz?”
+   “Süt ister misiniz?”
 
 
 Sade.
@@ -693,7 +695,7 @@ Sade.
 Bir yürüyen merdiven kültürü olduğundan bile bahsedebiliriz, yürüyen merdivenine göre değişmekle birlikte. AVM’lerdekileri kullanırken sağda ya da solda durma, yürüyerek çıkma, arkadan gelebileceklere yol verme gibi bir kaygı olmayabiliyor örneğin. Mağaza içi bir yürüyen merdivende o mağazanın tamamını satın almış gibi bir tavır takınabiliriz bilerek ya da bilmeyerek ve kimse bunu garipsemez.
 
 
-       “Pardon, bakar mısınız?”
+   “Pardon, bakar mısınız?”
 
 
 Teşekkür ederim.
