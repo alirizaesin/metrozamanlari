@@ -440,7 +440,7 @@ Gözyaşlarından birazını göz altı torbalarında biriktirmiş gibi sanki, e
 
 ## Gazeteci çıkışı
 
-Taksim… Yağmurlu bir sabah çok erken saatte yeryüzüne varmak üzereyim. Yaz yağmuru serin serin serpiştirmeye devam ediyor. Bu iyi. İnerken de öyleydi ama artık serpiştirmekle kalmayacak gibi sanki. Gökyüzü öyle diyor.
+Taksim… Yağmurlu bir sabah çok erken saatte yeryüzüne varmak üzereyim. Yaz yağmuru serin serin serpiştirmeye devam ediyor. Bu iyi. İnerken de öyleydi ama artık serpiştirmekle kalmayacak gibi. Gökyüzü öyle diyor.
 
 Son merdiven silsilesini tırmanıyorum. Günlerdir hiç kesilmeyecekmiş gibi esen rüzgârlar taşıyor işte şu kesif bulutları. Daha masum olanlarıyla katman katman, hızlıca kayıyorlar aynı yöne doğru. Yüksektekiler daha ağır, alçaktakiler daha hızlı geçiyor tepemizden. Gri tonların arasında bir boşluk renk veriyor bazen, maviyi unutmayalım diye.
 
@@ -632,6 +632,7 @@ Gerçekle kurgunun birbirine geçtiği yukarıya kıyasla, gerçeği daha net ya
 Yolcuların tavırları bu havayı ortadan kaldırmıyor, tam aksine pekiştiriyor çoğu zaman. Ortamı biraz daha karanlık düşleyince çıkıyor bu ortaya. Birbirini tanımazdan gelmeye dünden razı yabancılar, kimi ürkek kimi saldırgan yabanıl hareketler, kimi bezgin kimi tedirgin yüz ifadeleri, hatta ifadesizlikler… Bunların hiçbiri yok hatta bazen de. Olmaması daha başka bir acayiplik, durumuna göre. Büyülenmişçesine bir noktaya doğru yürümeler… Yürüyen ölüleri anımsatıyorlar bazen. Görüntüyü yavaşlat, *zombili* bir filmin tam ortasındasın! Keşke yerden aydınlatmalı olsaydı koridorlar…
 
 Metrodaki hayat her zaman o kadar da karanlık değil ama hepsi tesadüfen biraraya gelmiş insanların rol aldığı böylesi sahnelerin oyuncuları bazen öylesine tekdüze, öylesine birbirine benzer görünüyorlar ki… Üniformaları bile tastamam. Daha çeşitli sadece.
+
 Öyle görmek isteğinde ortam da sana yardımcı oluyor sanırım. Aşırı ışıklı koşullarda bir şeyi daha iyi görmek isterken gözlerini kısmak gibi… Kısık diyafram bakmak… Burada ise karanlıktasın. Aydınlığın tam tersi ya da daha kötüsü… Gözlerini daha büyük açman gerekir.
 
 Yeryüzündeki bir deliğe girip bir başkasından çıkmak… Çokluevrenin yeraltı sahnesindeki zaman kırılmaları… Ağır çekimden hızlıya dönüyorum bazen. “Yukarıdaki savaş” diyorum, devam ediyordur muhakkak.
@@ -666,7 +667,7 @@ Gayrettepe’ye varmak hoş tabii. Gayet doğal ve çok net. Gelirken duyduğumu
 
 Bu *Levent* sesi, duydum duyalı garip geliyor bana. Sanki biraz hüzünlü, biraz düşünceli bir ses… Levent’e gelmese miydik ne?..
 
-Levent’ten sonra birden bire canlanıyor anonslar. Buraya kadar hayli belirgin bir standart hakimdi. Levent’i geride bıraktığımızda ise heyecanlanmamız, sevinmemiz, içimizde bir kıpırtının uyanması, bir coşku duymamız gerekiyor galiba — ya da işte, hattın ses kaydına geç kalmıştı sonraki istasyonlar.
+Levent’ten sonra birden bire canlanıyor anonslar. Buraya kadar hayli belirgin bir standart hakimdi. Levent’i geride bıraktığımızda ise heyecanlanmamız, sevinmemiz, içimizde bir kıpırtının uyanması, bir coşku duymamız gerekiyor galiba — ya da işte, hattın ilk ses kaydına geç kalmıştı sonraki istasyonlar.
 
 
 ----
