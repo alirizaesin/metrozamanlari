@@ -955,7 +955,7 @@ Dünyanın ikinci metrosundan[^17] inip birkaç adım sonra dünyanın sonuncu m
 
 Çok değil, daha birkaç yıl önce “dünyanın üçüncü metrosu”ydu *Tünel*. Kapısında öyle yazıyordu. Kaçıncı olduğunu geçtim, Tünel metro raconundan sayılır mı, bundan da pek emin değilim.
 
-Tünel–Karaköy hattı “dünya metro sistemlerinden biri” olarak sayılabildiğine göre İstanbul Metrosu’nun da aynı sıradan girmesi lazım listelere — sonraki eklemeleri de bu hattın başlangıcı kabul ederek… Peki, bu mümkün mü?
+Tünel–Karaköy hattı “dünya metro sistemlerinden biri” olarak sayılabildiğine göre İstanbul Metrosu’nun da aynı sıradan girmesi lazım listelere — sonraki eklemeleri de bu hattın devamı kabul ederek… Peki, bu mümkün mü?
 
 Tünel, dilimin hâlâ dönmediği ismiyle, bir *füniküler*.[^18] Biraz tuhaf bir isim. Yürüyen merdivenlerin tek basamaklısı. Onun da tekerleklisi. Kabataş–Taksim arasında işleyen kabinlerin katlı yapısı kafa karıştırıyorsa da, füniküler denen şeyi tek basamaklı bir merdivene benzetiyorum. Bir asansöre ya da… Benzerlerine Şili’de[^19] öyle diyorlar: Asansör… Uzunca bir asansör kabini biçiminde, *çek-beni-çekeyim-seni* mantığıyla işleyen bir taşıma sistemi özünde.
 
