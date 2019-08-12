@@ -15,6 +15,7 @@ Ali Riza Esin
 
 
 İkinci Sürüm: Ağustos 2019
+
 Birinci Sürüm: Temmuz 2019
 
 
