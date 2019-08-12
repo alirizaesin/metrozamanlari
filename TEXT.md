@@ -214,13 +214,14 @@ Oysa durup beklemek en kolay şey. Duracaksın durduğun yerde, zaman akıp geç
 ## Duvara karşı
 
 Trenlere aynı kapıdan binmenin dezavantajları da var. Beklerken aynı duvara bakmak zorunda kalabiliyorsun örneğin. Her gün aynı reklam panosunu görmek anlamına geliyor bu.
+
 Pek sık değişmiyor reklam panoları. İnsanlar daha çok ve daha sık görsün, maksat frekans olsun! Öyle ki ineceğin istasyonu reklamlarından tanıyabilirsin durak anonslarını dinlemesen bile.
 
 Işıklı reklamlar bunlar. O loşlukta gözünü kaçırman imkânsız. Boş duvarlara bakmak mı daha sıkıcı yoksa bunlara bakmak mı diye düşünürken tam karşımdaki kadın ve erkek görüntüsüne sabitleniyor bakışlarım. Birkaç gündür burada duruyor bu modeller. Bir *tekstilci* reklamı. Hemen bitişiğinde ise bir festival afişi var. Festival… Öyle yazıyor. Bir plaj partisiymiş. Parti mi festival mi? Festival havasında geçecek bir parti ya da… Buldum!
 
 Kadın modelin bakışlarına anlam vermeye çalışıyorum birkaç gündür. Acaba nereye bakıyor olabilir diye… Böyle pozlarda modelimizden bakışlarını belli bir noktaya sabitlemesi istenebilir. Fotoğraftaki kadının gözleri de sabit ama işte… Bir noktaya değil de sanki o noktadan daha öncesine, arada kalan boşluğa bakıyor gibi. Boş boş bakmak değil, hayır. Kör taklidi yap demişler ve o da yapmış gibi duruyor sanki… Yoksa gerçek bir dalgınlık anını mı yakalamış fotoğrafçımız? Hayır, pek öyle de değil… Çözemedim.
 
-Kadının yanında duran erkek modelin hali tavrı ise çok net. Dekupe bir genç. Oraya sonradan yapıştırılmış gibi duruyor çünkü gayet net. “Sen yere bak” gibi bir şey demiş olabilirler kendisine ve o da bakmış büyük gayretle.
+Kadının yanında duran erkek modelin hali tavrı ise çok net. Dekupe bir genç. Oraya sonradan yapıştırılmış gibi duruyor çünkü. “Sen yere bak” gibi bir şey demiş olabilirler kendisine ve o da bakmış büyük gayretle.
 
 
 ----
@@ -282,7 +283,7 @@ Kimse başkası gibi davranmak zorunda değil, ancak başkalarıyla ortak kullan
 
 ## Ayazağa
 
-Bazı istasyonlar diğerlerine kıyasla çok daha geniş ve ferah yerler. Kapalı bir yer eğer genişse, dar yerlere kıyasla daha az hissediliyor kapalı oldukları. Yanıltıcı bir ferahlık hissi bu elbette, metrodasın nihayetinde.
+Bazı istasyonlar diğerlerine kıyasla çok daha geniş ve ferah yerler. Kapalı bir yer eğer genişse, dar yerlere göre daha az hissediliyor kapalı oldukları. Yanıltıcı bir ferahlık hissi bu elbette, metrodasın nihayetinde.
 
 İ.T.Ü. Ayazağa istasyonu işte böyle bir istasyon. Burada tren bekleyen insanlar, trenden inip çıkışa yönelenler, yukarıdan aşağıya inenler, diğer istasyonlardaki insanlara göre çok daha rahatlar ya da bana öyle geliyor. Daha uzaklar ya birbirlerinden…
 
@@ -372,7 +373,7 @@ Gayet kendiliğinden ve diyaframdan soprano bir sesle “Hapşııı” diyordu 
 
    – Hapşııı!
 
-Gayet nizami hapşıran bir insan… İnsanların hapşırırken çıkardıkları sesler muhtelif ama hapşııı *diyerek* hapşırmak?
+Nizami hapşıran bir insan… İnsanların hapşırırken çıkardıkları sesler muhtelif ama hapşııı *diyerek* hapşırmak?
 
 Takındığı utangaç tavır bir yandan, hapşırma biçimini duyanların bakışları diğer yandan… Çok değil, saniyeler önce birbirini yabancılayan herkes kızdan çok birbirine bakmaya başlıyor. Birlikte tanık oldukları şey insanları birbirine bağlıyor sanki. Doğrusu budur belki? Çoğunluk yanlış hapşırıyor olamaz mı?
 
@@ -595,7 +596,7 @@ Metrodaki harala gürelenin nedeni bir yerlere yetişme telaşı mı, yoksa baş
 
 Metronun seyrek saatlerinde on dakika sonraki katarın zaman tablosuna dahil olmanın sakıncası ne olabilir ki? On dakika sonrası kim için ne kadar geç? Kıtlık görmemiş insanların bazen kıtlıktan yeni çıkmış gibi davranmalarının bir nedeni var mı? Trene haldır huldur binip haldır huldur inilmeyen bir dünya mümkün mü?
 
-Metro içindeki yaya düzeni ya da kargaşası başka, kendini trene dar atma çabası ise daha başka bir gariplik gibi geliyor bana. Gidilecek en uzak yere gitmek en fazla yarım saat sürecek ama yine de ayakta kalmakla oturmak arasındaki konfor farkı mıdır mesele?
+Metro içindeki yaya düzeni ya da kargaşası başka, kendini trene dar atma çabası ise daha başka bir gariplik gibi. Gidilecek en uzak yere gitmek en fazla yarım saat sürecek ama yine de ayakta kalmakla oturmak arasındaki konfor farkı mıdır mesele?
 
 
 ----
