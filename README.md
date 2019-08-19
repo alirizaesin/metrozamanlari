@@ -24,3 +24,8 @@ anı, geziyazısı, günlük, deneme, öykü
 ## Kapak
 
 <img src="metro-zamanlari-kapak.jpg" width="400" height="600">
+
+
+## Lisans
+
+[CC-BY-NC-ND](https://github.com/alirizaesin/metrozamanlari/blob/master/LICENSE) – Creative Commons Atıf-GayriTicari-Türetilemez 4.0 Uluslararası Lisansı ile lisanslanmıştır. Bazı hakları saklıdır.
