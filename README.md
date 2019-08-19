@@ -1,6 +1,9 @@
 # *Metro Zamanları*, Ali Riza Esin
 Yazanın 2010–2013 yılları arasında İstanbul metrosunun muhtelif hatlarında aldığı notlardan seçerek e-kitap biçiminde derlediği — tür olarak pek azı kurgu — yazılar ve kısa hikâyeler, seyahat günlükleri…
 
+## Kapak
+
+<img src="metro-zamanlari-kapak.jpg" width="400" height="600">
 
 ## Bağlantılar
 
@@ -19,12 +22,6 @@ Derlemeyi oluşturan kısa yazılara sınıflandırma anlamında *yakın* sayıl
 ```
 anı, geziyazısı, günlük, deneme, öykü
 ```
-
-
-## Kapak
-
-<img src="metro-zamanlari-kapak.jpg" width="400" height="600">
-
 
 ## Lisans
 
