@@ -10,6 +10,8 @@ anı, geziyazısı, günlük, deneme, öykü
 
 ----
 
+## Bağlantılar
+
 ### https://esin.net/metrozamanlari
 
 [Web sayfası](https://esin.net/metrozamanlari/) - Kapakta kullanılan *temayı* canlandıran, cildin ekler bölümünde “Metro yer etiketleri için alternatif uyarı ifadeleri” başlığı altında yer verilen 40 klişeden ilkini sabit diğer dördünü rastgele görüntülemek suretiyle işleyen ve indirilebilir format çeşitlerine doğrudan erişim sağlayan tanıtım sayfası :link:
