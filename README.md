@@ -1,14 +1,6 @@
 # Metro Zamanları, Ali Riza Esin
 Yazanın 2010–2013 yılları arasında İstanbul metrosunun muhtelif hatlarında aldığı notlardan seçerek e-kitap biçiminde derlediği — tür olarak pek azı kurgu — yazılar ve kısa hikâyeler, seyahat günlükleri…
 
-## İçerik
-Derlemeyi oluşturan kısa yazılara sınıflandırma olarak *yakın* sayılabilecek bazı düz yazı ve kurmaca türleri:
-
-```
-anı, geziyazısı, günlük, deneme, öykü
-```
-
-----
 
 ## Bağlantılar
 
@@ -20,7 +12,14 @@ anı, geziyazısı, günlük, deneme, öykü
 
 [Tanıtım videosu](https://vimeo.com/350958386) - Vimeo’da :link:
 
-----
+
+## Etiketler
+Derlemeyi oluşturan kısa yazılara sınıflandırma anlamında *yakın* sayılabilecek bazı düz yazı ve kurmaca türleri:
+
+```
+anı, geziyazısı, günlük, deneme, öykü
+```
+
 
 ## Kapak
 
